@@ -8,7 +8,6 @@ var Extender = require('./lib/extender');
 
 // Constructors
 exports.Extender = Extender;
-exports.Rule = Rule;
 
 // Maker Functions
 exports.extend = Extender;
